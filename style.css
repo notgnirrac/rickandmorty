@@ -2,3 +2,27 @@ html {
     height: 100%;
     width: 100%;
 }
+
+#head {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#randm {
+  text-align: center;
+  padding: 20px;
+}
+
+#randm img {
+  margin: 10px;
+  height: auto;
+  border: 2px solid #030d3d;
+}
+
+h1 {
+  font-size: 36px;
+  color: #121830; 
+  text-align: center;
+  margin-top: 20px;
+  letter-spacing: 2px;
+}
